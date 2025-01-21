@@ -1,0 +1,13 @@
+#continentes{
+    background-color: aquamarine; width: 400px
+}
+
+#titulo_continentes{
+    color: white;
+    text-decoration: underline wavy red;
+}
+
+#titulo_oceanos{
+    color: black;
+    text-decoration: underline dotted blue;
+}
